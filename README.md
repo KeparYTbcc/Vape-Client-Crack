@@ -19,6 +19,7 @@ Major updates and modifications will be done in a separate repository. This repo
 - **A self-hosted [Gitea](https://github.com/go-gitea/gitea) instance** is also used for backup purposes. The domain is private for now due to server limitations.
 - **Check the [Archive](https://web.archive.org/web/*/https://github.com/KeparYTbcc/Vape_V4-Crack)** for historical snapshots of this repository.  
 --> PS: if you pass by here, mind saving it too?, it take ~10s and it make keep our repo alive 😊 -> [SAVE IT](./archive.md)
+--> **Note:** This repository was taken down on a previous account. Here is the archived version: [ARCHIVE1 KOLHAX](https://web.archive.org/web/*/https://github.com/Kolhax/Vape-V4-Crack) (total: 1 Takedown)
 
 ---
 
