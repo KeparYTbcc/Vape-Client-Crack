@@ -1,5 +1,5 @@
 # Vape V4 Cracked
-![Vape V4](images/Vape_V4.png)
+![Vape V4](./images/Vape_V4.png)
 
 Vape offers an advanced cheating solution for Minecraft that integrates seamlessly into Forge versions of the game. Renowned for its simplicity and robust stealth capabilities, Vape ensures secure and undetectable injection of cheats, providing a significant edge in gameplay.
 
