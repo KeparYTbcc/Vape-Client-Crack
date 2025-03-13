@@ -26,8 +26,6 @@ Major updates and modifications will be done in a separate repository. This repo
 ## Update Messages
 
 ### 12/22/2024
-- **Launcher.py** has been created:
-  - It's far from perfect and may not start Vape properly. If it doesn't start automatically, you can manually start it. At least the server will be running.
 - **Newer Video**: [Watch Here](https://archive.org/details/vape-v-4.mp-4)
 
 ### 12/21/2024
@@ -114,8 +112,8 @@ pip install websockets --upgrade
 ---
 
 ## Donations
-- **BTC**: `bc1qup9zrl9z94agmxjth4kqvyevdd6tysmf5th6hz`
-- **ETH**: `0x88229297934Dea144783188262268E36b5C8205b`
+- **BTC**: `3BWTyzJaQiCJYbBUScTng5MQoM277QPvzX`
+- **ETH**: `0xdfF2d29703C851146c4669020746be4cD4d6fd9F` (ERC20)
 - **Paypal**: [Donate Here](https://paypal.me/keparMC)
 
 ---
