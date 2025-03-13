@@ -12,7 +12,7 @@ For purchases, visit the official website:
 
 ### Prerequisites
 
-1. **Install Python 3.9**:
+1. **Install Python 3.11**:
    - Ensure you tick the "Add to path" checkbox at the bottom of the installation window before clicking "Install Now".
 
 2. **Disable Real-Time Protection**:
